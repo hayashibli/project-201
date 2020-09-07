@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(28, 28, 44);
+    color: white;
+}
+h1{
+    text-align: center;
+    border: lightblue 5px double;
+    margin: 0%;
+    
+}
+
+p{
+    text-align: left;
+    font-size: larger;
+    font-family: inherit;
+    margin-top: 80px;
+    padding: 10px;
+}
+
+footer{
+    margin-bottom: 0%;
+    
+}
+
+#mainimg{
+border: lightblue 4px solid;
+width: 20cm;
+height: 15cm;
+position: relative;
+margin-left: 10cm;
+margin-top : 1cm;
+}
