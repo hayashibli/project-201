@@ -1,6 +1,8 @@
 body{
     background-color:rgb(28, 28, 44);
     color: white;
+    margin: 0%;
+    padding: 0%;
 }
 h1{
     text-align: center;
@@ -19,6 +21,7 @@ p{
 
 footer{
     margin-bottom: 0%;
+    margin-top: 10%;
     
 }
 
@@ -28,5 +31,25 @@ width: 20cm;
 height: 15cm;
 position: relative;
 margin-left: 10cm;
-margin-top : 1cm;
+margin-top : 1cm;}
+
+.h3{
+    border: lightblue 5px double;
+    font-size: 20px;
+    display: inline;
+    font-family: inherit;
+}
+ol li{
+    font-size: 18px;
+    padding: 4px;
+    font-family: inherit;
+    margin-top: 5px;
+}
+
+
+ul li{
+    font-size: 18px;
+    padding: 4px;
+    font-family: inherit;
+    margin-top: 5px;
 }
